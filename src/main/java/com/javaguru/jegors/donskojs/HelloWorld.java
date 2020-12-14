@@ -1,4 +1,4 @@
-package jegors.donskojs;
+package com.javaguru.jegors.donskojs;
 
 class HelloWorld
 {
