@@ -1,10 +1,8 @@
-package com.javaguru.name_lastname_student.lesson_0.task_1;
+package com.javaguru.jegors.donskojs;
 
-class Summa
-{
+public class Summa {
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         int x, y, z;
         x = 74;
         y = 36;
