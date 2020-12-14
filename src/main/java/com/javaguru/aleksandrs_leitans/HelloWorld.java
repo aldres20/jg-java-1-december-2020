@@ -1,4 +1,4 @@
-package com.javaguru.name.aleksandrs_leitans;
+package com.javaguru.aleksandrs_leitans;
 
 class HelloWorld {
 
