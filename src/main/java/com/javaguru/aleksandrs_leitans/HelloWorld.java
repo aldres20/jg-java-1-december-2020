@@ -1,7 +1,4 @@
-package com.javaguru.name_lastname_student.lesson_0.task_1;
+package com.javaguru.aleksandrs_leitans;
 
-class HelloWorld {
-
-    public static void main(String[] args) {
-        System.out.println("Hello World");
+public class HelloWorld {
     }
