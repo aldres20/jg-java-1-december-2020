@@ -1,4 +1,4 @@
-package com.javaguru.aleksandrs_leitans;
+package com.javaguru.aleksandrs_leitans.lesson1;
 
 public class HelloWorld {
     public static void main(String[] args) {
