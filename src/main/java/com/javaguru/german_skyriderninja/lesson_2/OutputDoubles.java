@@ -1,5 +1,6 @@
 package com.javaguru.german_skyriderninja.lesson_2;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class OutputDoubles {
@@ -10,7 +11,7 @@ public class OutputDoubles {
 
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in).useLocale(Locale.US);//Добавил локаль. Джава использовала настройки моей винды и принимала за разделение только запятые, а не точки.
 
         System.out.println("Enter first number: ");
         double num1 = scanner.nextDouble();
