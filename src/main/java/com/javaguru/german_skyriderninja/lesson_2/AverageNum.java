@@ -1,7 +1,10 @@
 package com.javaguru.german_skyriderninja.lesson_2;
 
+import com.javaguru.teacher.codereview.CodeReviewComment;
+
 import java.util.Scanner;
 
+@CodeReviewComment(teacher = "Можно посмотреть как будет работать с типом данных double (дробные)")
 public class AverageNum {
 
     public static void main(String[] args) {
