@@ -12,16 +12,17 @@ public class AverageNum {
         Scanner num = new Scanner(System.in);
         System.out.print("Pleas enter the amount of numbers you want to count average from: ");
 
-        int numberAmount = Integer.parseInt(num.nextLine());
+        double numberAmount = Double.parseDouble(num.nextLine());
         int sum = 0;
 
         for(int i = 1; i <= numberAmount; i++){
             System.out.print("Number"+ i +" :");
-            sum += Integer.parseInt(num.nextLine());
+            sum += Double.parseDouble(num.nextLine());
         }
 
-        int average = sum / numberAmount;
+        double average = sum / numberAmount;
         System.out.println("The average of " +numberAmount+ " entered number(s) is " +average);
     }
 }
+//Дополнено 21:52 - Вот так вот выглядит с Double
 //Task_11
