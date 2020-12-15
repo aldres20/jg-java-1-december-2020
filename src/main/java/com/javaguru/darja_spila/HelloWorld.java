@@ -1,6 +1,6 @@
-package com.javaguru.germans_galinovskis;
+package com.javaguru.darja_spila;
 
-public class HelloWorld {
+class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("Hello World");
