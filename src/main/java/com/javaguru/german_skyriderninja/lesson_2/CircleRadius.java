@@ -1,12 +1,13 @@
 package com.javaguru.german_skyriderninja.lesson_2;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class CircleRadius {
 
     public static void main(String[] args) {
 
-        Scanner i = new Scanner(System.in);
+        Scanner i = new Scanner(System.in).useLocale(Locale.US);//И тут поправил.
         System.out.println("Please input the radius of circle: ");
 
         double radius = i.nextDouble();
