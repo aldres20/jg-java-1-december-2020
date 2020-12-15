@@ -1,4 +1,4 @@
 package com.javaguru.nikita_kopaleisvili;
 
-public class Hello {f
+public class Hello {
 }
