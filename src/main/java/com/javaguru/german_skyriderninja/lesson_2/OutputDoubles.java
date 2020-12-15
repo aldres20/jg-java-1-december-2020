@@ -30,4 +30,5 @@ public class OutputDoubles {
 
 
     }
-}//Task_2
+}
+//Task_2

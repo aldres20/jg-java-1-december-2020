@@ -8,4 +8,5 @@ public class SumNumbers {
 
         System.out.println(+sum); // Тоже достаточной простой, но не сразу понятный.
     }
-}//Task_11
+}
+//Task_11

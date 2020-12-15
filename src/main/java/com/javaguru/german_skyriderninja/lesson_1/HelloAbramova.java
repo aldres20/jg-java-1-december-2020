@@ -9,4 +9,5 @@ public class HelloAbramova {
         но этот вариант симпатичнее.
          */
     }
-}// Task_10
+}
+// Task_10

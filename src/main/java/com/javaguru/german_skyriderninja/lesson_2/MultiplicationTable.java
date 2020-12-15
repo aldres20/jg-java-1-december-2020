@@ -14,4 +14,5 @@ public class MultiplicationTable {
             System.out.println(num + " * " + i + " = " + num * i);
         }
     }
-}//Task_9
+}
+//Task_9

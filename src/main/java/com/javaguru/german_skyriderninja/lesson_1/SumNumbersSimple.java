@@ -5,4 +5,5 @@ public class SumNumbersSimple {
     public static void main (String[] args) {
         System.out.println(74 + 36); // Самый простой и понятный вариант
     }
-}//Task_11.1
+}
+//Task_11.1
