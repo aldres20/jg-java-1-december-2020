@@ -11,5 +11,11 @@ public class Task_11 {
 
         System.out.println(sumResult);
 
+        int firstnumber = 50;
+        int secondnumber = 3;
+
+        int result = firstnumber / secondnumber;
+
+        System.out.println(result);
     }
 }
