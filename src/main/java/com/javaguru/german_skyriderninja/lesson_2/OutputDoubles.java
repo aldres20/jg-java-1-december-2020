@@ -1,8 +1,12 @@
 package com.javaguru.german_skyriderninja.lesson_2;
 
+import com.javaguru.teacher.codereview.CodeReviewComment;
+
 import java.util.Locale;
 import java.util.Scanner;
 
+@CodeReviewComment(teacher = "это связано со спецификой Scanner. Не стоит сильно заморачиваться над работой с консолью." +
+        " Огромный плюс, что нашел решение!")
 public class OutputDoubles {
 
     /* Код почему-то работает только когда вводишь числа с запятой, но НЕ с точкой. Хоть и ответ даёт числа с точкой
