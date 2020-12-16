@@ -5,22 +5,22 @@ import java.util.Scanner;
 public class Task_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        float first, second, result;
+        double first, second, result;
         System.out.println("first num: ");
-        first = scanner.nextFloat();
+        first = scanner.nextDouble();
         System.out.println("second num: ");
-        second = scanner.nextFloat();
+        second = scanner.nextDouble();
         result = first + second;
         System.out.println("result is - " + result);
 
         result = first - second;
-        System.out.println("result is - :" + result);
+        System.out.println("result is - " + result);
 
         result = first / second;
-        System.out.println("result is - :" + result);
+        System.out.println("result is - " + result);
 
         result = first * second;
-        System.out.println("result is - :" + result);
+        System.out.println("result is - " + result);
 
     }
 
