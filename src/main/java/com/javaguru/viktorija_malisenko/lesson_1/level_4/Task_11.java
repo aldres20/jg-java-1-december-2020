@@ -10,14 +10,11 @@ public class Task_11 {
         int sumResult = firstNumber + secondNumber;
 
         System.out.println(sumResult);
-    }
 
-    public static void main(String[] args) {
+        int firstnumber = 50;
+        int secondnumber = 3;
 
-        int firstNumber = 50;
-        int secondNumber = 3;
-
-        int result = firstNumber / secondNumber;
+        int result = firstnumber / secondnumber;
 
         System.out.println(result);
     }
