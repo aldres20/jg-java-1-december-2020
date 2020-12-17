@@ -14,7 +14,7 @@ public class Robot {
     }
 
     public Robot(String robotName) {
-        this.name = robotName;
+        name = robotName;
 
     }
 }
