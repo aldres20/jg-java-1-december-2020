@@ -1,4 +1,4 @@
-package com.javaguru.viktorija_malisenko.lesson_2;
+package com.javaguru.viktorija_malisenko.lesson_2.level_3;
 
 import java.util.Scanner;
 

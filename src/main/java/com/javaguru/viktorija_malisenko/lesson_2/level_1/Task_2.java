@@ -1,4 +1,4 @@
-package com.javaguru.viktorija_malisenko.lesson_2;
+package com.javaguru.viktorija_malisenko.lesson_2.level_1;
 
 import java.util.Scanner;
 
@@ -10,6 +10,7 @@ public class Task_2 {
         first = scanner.nextDouble();
         System.out.println("second num: ");
         second = scanner.nextDouble();
+
         result = first + second;
         System.out.println("result is - " + result);
 

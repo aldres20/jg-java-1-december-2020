@@ -1,4 +1,4 @@
-package com.javaguru.viktorija_malisenko.lesson_2.super_task;
+package com.javaguru.viktorija_malisenko.lesson_2.level_1;
 
 public class Task1 {
     public static void main(String[] args){
