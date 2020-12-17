@@ -1,4 +1,4 @@
-package com.javaguru.Viktorija_Tarane_student;
+package com.javaguru.Viktorija_Tarane_student.lesson1.level_4;
 
 import com.javaguru.teacher.codereview.CodeReviewComment;
 

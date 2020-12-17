@@ -1,4 +1,4 @@
-package com.javaguru.Viktorija_Tarane_student.lesson2;
+package com.javaguru.Viktorija_Tarane_student.lesson2.level_1;
 
 import java.util.Scanner;
 
